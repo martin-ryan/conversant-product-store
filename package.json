@@ -1,0 +1,19 @@
+{
+  "name": "conversant",
+  "version": "1.0.0",
+  "description": "Test coding project",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/martin-ryan/conversant-product-store.git"
+  },
+  "author": "Martin Ryan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/martin-ryan/conversant-product-store/issues"
+  },
+  "homepage": "https://github.com/martin-ryan/conversant-product-store#readme"
+}
